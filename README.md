@@ -1,5 +1,5 @@
 Base:
-    Contact:
+    Contact
         id
         name
     PhoneNumber
